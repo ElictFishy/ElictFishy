@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=C0392B&center=true&vCenter=true&width=620&lines=Salut+!+%F0%9F%91%8B+Moi+c'est+Eliott.;BUT+Informatique+%E2%80%94+2e+ann%C3%A9e.;Du+bas+niveau+en+C+au+front+en+Next.js." alt="Salut ! Moi c'est Eliott — BUT Informatique, 2e année" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=C0392B&center=true&vCenter=true&width=620&lines=Salut+!+%F0%9F%91%8B+Moi+C'est+Eliott.;BUT+Informatique+%E2%80%94+2e+Ann%C3%A9e.;Du+Bas+Niveau+En+C+Au+Front+En+Next.js." alt="Salut ! Moi c'est Eliott — BUT Informatique, 2e année" />
 </div>
 
 <br>
