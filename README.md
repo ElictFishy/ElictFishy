@@ -47,15 +47,6 @@ Site vitrine d'un restaurant-épicerie italien à La Bourboule. Hero vidéo **sc
 
 </div>
 
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ElictFishy&show_icons=true&theme=transparent&hide_border=true&locale=fr" alt="Stats GitHub" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElictFishy&layout=compact&theme=transparent&hide_border=true&locale=fr&langs_count=6" alt="Langages les plus utilisés" height="160" />
-
-</div>
-
 ## 📬 Me contacter
 
 <div align="center">
