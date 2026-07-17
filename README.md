@@ -28,12 +28,12 @@ Des interfaces qui bougent bien, qui chargent vite, et qui tournent partout — 
 
 Site vitrine d'un restaurant-épicerie italien à La Bourboule. Hero vidéo **scrubée au scroll** (la pinsa se décompose sous le doigt), parallax d'ambiance, avis Google rafraîchis à chaque build — le tout en export statique optimisé jusqu'aux téléphones d'entrée de gamme.
 
-**[→ ciao-bella.vercel.app](https://ciao-bella.vercel.app)** · [le code](https://github.com/ElictFishy/ciao-bella)
+**[→ ciao-bella.vercel.app](https://ciao-bella.vercel.app)**
 
 </td>
 <td>
 
-<img src="https://raw.githubusercontent.com/ElictFishy/ciao-bella/main/.github/preview-mobile.png" alt="Ciao Bella — hero mobile" width="220" />
+<img src="assets/ciao-bella-mobile.png" alt="Ciao Bella — hero mobile" width="220" />
 
 </td>
 </tr>
