@@ -1,24 +1,38 @@
 <div align="center">
-
-# Salut, moi c'est Eliott 👋
-
-**Je conçois des expériences web soignées — du design au déploiement.**
-
-Des interfaces qui bougent bien, qui chargent vite, et qui tournent partout — même sur un vieux téléphone.
-
-<br />
-
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![React](https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)](https://gsap.com)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C0392B&height=230&section=header&text=Eliott&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%C3%89tudiant%20BUT%20Informatique%20%E2%80%A2%20D%C3%A9veloppeur%20web&descAlignY=65&descAlign=50&descColor=ffffff&descSize=18" alt="" />
 </div>
 
-<br />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C0392B&center=true&vCenter=true&width=600&lines=Salut+!+%F0%9F%91%8B+Moi+c'est+Eliott+!;BUT+Informatique+%E2%80%94+2e+ann%C3%A9e;Des+interfaces+qui+bougent+bien+et+chargent+vite." alt="Salut ! Moi c'est Eliott — BUT Informatique, 2e année" />
+</div>
 
-## 🔭 En ce moment
+<br>
+
+## 🌍 Langages
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts&theme=dark" alt="C, C++, C#, Python, JavaScript, TypeScript" />
+</div>
+
+<br>
+
+## 🕸️ Web
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,nodejs&theme=dark" alt="Next.js, React, Tailwind, HTML, CSS, Node.js" />
+</div>
+
+<br>
+
+## ⚙️ Outils & environnements
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,windows&theme=dark" alt="Git, GitHub, VS Code, Visual Studio, Vercel, Windows" />
+</div>
+
+<br>
+
+## 🔭 Projet du moment
 
 <table>
 <tr>
@@ -26,7 +40,7 @@ Des interfaces qui bougent bien, qui chargent vite, et qui tournent partout — 
 
 ### 🍕 Ciao Bella
 
-Site vitrine d'un restaurant-épicerie italien à La Bourboule. Hero vidéo **scrubée au scroll** (la pinsa se décompose sous le doigt), parallax d'ambiance, avis Google rafraîchis à chaque build — le tout en export statique optimisé jusqu'aux téléphones d'entrée de gamme.
+Site vitrine d'un restaurant-épicerie italien à La Bourboule. Hero vidéo **scrubée au scroll** (la pinsa se décompose sous le doigt), parallax d'ambiance, avis Google rafraîchis à chaque build — export statique Next.js optimisé jusqu'aux téléphones d'entrée de gamme.
 
 **[→ ciao-bella.vercel.app](https://ciao-bella.vercel.app)**
 
@@ -39,20 +53,18 @@ Site vitrine d'un restaurant-épicerie italien à La Bourboule. Hero vidéo **sc
 </tr>
 </table>
 
-## 🛠️ Ma boîte à outils
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,nodejs,git,vercel&perline=10" alt="Next.js, React, TypeScript, JavaScript, Tailwind, HTML, CSS, Node.js, Git, Vercel" />
-
-</div>
+<br>
 
 ## 📬 Me contacter
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/eliottboudon%40gmail.com-C0392B?style=flat-square&logo=gmail&logoColor=white)](mailto:eliottboudon@gmail.com)
+[![Email](https://img.shields.io/badge/eliottboudon%40gmail.com-C0392B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliottboudon@gmail.com)
 
-*Toujours partant pour parler d'un projet web.*
+*Toujours partant pour parler d'un projet.*
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C0392B&height=100&section=footer" alt="" />
 </div>
