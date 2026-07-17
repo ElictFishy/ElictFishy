@@ -24,10 +24,18 @@
 
 <br>
 
-## 🖥️ Systèmes & outils
+## 🖥️ Systèmes
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=debian,arch,windows,git,github,vscode,visualstudio,vercel&theme=dark&perline=8" alt="Debian, Arch Linux, Windows, Git, GitHub, VS Code, Visual Studio, Vercel" />
+  <img src="https://skillicons.dev/icons?i=debian,arch,windows&theme=dark" alt="Debian, Arch Linux, Windows" />
+</div>
+
+<br>
+
+## ⚙️ Outils
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel&theme=dark" alt="Git, GitHub, VS Code, Visual Studio, Vercel" />
 </div>
 
 <br>
