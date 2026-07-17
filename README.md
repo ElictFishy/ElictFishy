@@ -40,14 +40,25 @@
 
 <br>
 
-## 📬 Me contacter
+## 📊 Stats
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/eliottboudon%40gmail.com-C0392B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliottboudon@gmail.com)
-
-*Toujours partant pour parler d'un projet.*
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ElictFishy&show_icons=true&hide_border=true&bg_color=00000000&title_color=E74C3C&icon_color=E74C3C&text_color=c9c9c9&ring_color=C0392B" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ElictFishy&show_icons=true&hide_border=true&bg_color=00000000&title_color=C0392B&icon_color=C0392B&text_color=333333&ring_color=C0392B" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ElictFishy&show_icons=true&hide_border=true&bg_color=00000000&title_color=C0392B&icon_color=C0392B&text_color=333333&ring_color=C0392B" alt="Stats GitHub" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElictFishy&layout=compact&hide_border=true&bg_color=00000000&title_color=E74C3C&text_color=c9c9c9&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ElictFishy&layout=compact&hide_border=true&bg_color=00000000&title_color=C0392B&text_color=333333&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElictFishy&layout=compact&hide_border=true&bg_color=00000000&title_color=C0392B&text_color=333333&langs_count=8" alt="Langages les plus utilisés" height="165" />
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ElictFishy&hide_border=true&background=00000000&ring=E74C3C&fire=E74C3C&currStreakLabel=E74C3C&sideLabels=c9c9c9&sideNums=c9c9c9&dates=888888" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ElictFishy&hide_border=true&background=00000000&ring=C0392B&fire=C0392B&currStreakLabel=C0392B&sideLabels=333333&sideNums=333333&dates=888888" />
+    <img src="https://streak-stats.demolab.com?user=ElictFishy&hide_border=true&background=00000000&ring=C0392B&fire=C0392B&currStreakLabel=C0392B" alt="Streak GitHub" height="165" />
+  </picture>
 </div>
 
 <br>
